@@ -27,6 +27,10 @@ It's pretty simple really:
 * Plug the USB drive into the USB port in your Tesla's glove box
 * Launch Boombox on your Tesla and select "USB" for the lock sound
 
+### Privacy
+
+This app doesn't collect data of any sort, however Google Play requires a privacy policy. This is available here: [Privacy Policy](PRIVACY.md)
+
 ### Problems?
 
 Shoot me an email if you have any issues. I have limited devices to test on, so I'm sure there will be some quirks out there.  
