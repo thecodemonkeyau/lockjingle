@@ -2,9 +2,11 @@
 
 This Android app lets the user browse for an audio file using their phone, preview the audio and copy the chosen file to `LockChime.wav` in the root of the external storage.
 
+![Dark Mode](images/screenshot-dark-small.png)
+
 ### Features
 
-* Auto-detects the presence of external USB at startup
+* Auto-detects the presence of external USB - ⚠️️ ***NOTE*** this can take up to 5 seconds
 * Manually scan for attached USB drive
 * Files can be read from internal, external (USB), or google drive
 * Preview the selected audio
