@@ -7,7 +7,10 @@ This Android app lets the user browse for an audio file using their phone, previ
 
 ⚠ the autodetection takes around 5 seconds after the USB is inserted. To avoid the delay insert the USB before launching the app
 
-Watch a recording of the app in action
+### Video
+
+Click the screenshot for a video of the app running
+
 [![Watch the video](images/screenshot-dark-small.png)](images/screencap-usage.mp4)
 
 ### Features
