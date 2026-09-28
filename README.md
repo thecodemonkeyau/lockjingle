@@ -2,7 +2,11 @@
 
 This Android app lets the user browse for an audio file using their phone, preview the audio and copy the chosen file to `LockChime.wav` in the root of the external storage.
 
-<img src="images/screenshot-light-small.png" alt="Light mode" style="margin-right: 20px;"><img src="images/screenshot-dark-small.png" alt="Dark mode">
+
+<video controls width="600">
+  <source src="images/screencap-usage.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Features
 
@@ -14,6 +18,8 @@ This Android app lets the user browse for an audio file using their phone, previ
 * Supports reading wav, ogg, and mp3 files
 * Supports multiple partitions on the USB (which enables pseudo-random lock sounds)
 * Supports light and dark modes (will follow the current mode)
+
+<img src="images/screenshot-light-small.png" alt="Light mode" style="margin-right: 20px;"><img src="images/screenshot-dark-small.png" alt="Dark mode">
 
 ### Usage
 
