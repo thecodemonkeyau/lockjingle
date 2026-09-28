@@ -4,6 +4,7 @@ This Android app lets the user browse for an audio file using their phone, previ
 
 ## WARNINGS
 ⚠ this app requests ACCESS_ALL_FILES permissions to allow it to automatically detect external storage, and to provide a seamless user experience.
+
 ⚠ the autodetection takes around 5 seconds after the USB is inserted. To avoid the delay insert the USB before launching the app
 
 Watch a recording of the app in action
